@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "class",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class-Debug-0e1aecb8e93ea4f6c15f.json",
+					"name" : "class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "class_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class_autogen-Debug-bd5c4b9675e7385c1efb.json",
+					"name" : "class_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "class_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-class_autogen_timestamp_deps-Debug-86e44b3d0f1ba2742593.json",
+					"name" : "class_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/class/build-class-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/class/class"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

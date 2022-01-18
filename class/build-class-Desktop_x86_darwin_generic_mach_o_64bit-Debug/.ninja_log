@@ -1,0 +1,10 @@
+# ninja log v5
+3	27	1642458819656179677	class_autogen/timestamp	eeba4af9af792e7
+3	27	1642458819656179677	class_autogen/mocs_compilation.cpp	eeba4af9af792e7
+3	27	1642458819656179677	/Users/ahmetdundar/Documents/qt6_course_codes/class/build-class-Desktop_x86_darwin_generic_mach_o_64bit-Debug/class_autogen/timestamp	eeba4af9af792e7
+196	1125	1642458773409185886	CMakeFiles/class.dir/class_autogen/mocs_compilation.cpp.o	f07a133c66bf63cf
+196	1142	1642458773425875634	CMakeFiles/class.dir/main.cpp.o	d0744033038ab62d
+3	27	1642458819656179677	/Users/ahmetdundar/Documents/qt6_course_codes/class/build-class-Desktop_x86_darwin_generic_mach_o_64bit-Debug/class_autogen/mocs_compilation.cpp	eeba4af9af792e7
+29	956	1642458820578255491	CMakeFiles/class.dir/laptop.cpp.o	65704969ce28c722
+215	1285	1642457356824376357	CMakeFiles/class.dir/animal.cpp.o	e7a4ba0dd3624045
+956	1013	1642458820639095515	class	6bb1a6917ee4541b

@@ -1,0 +1,16 @@
+# ninja log v5
+0	291	1642677661042322755	signal_and_slot_autogen/timestamp	c94878796e784919
+0	291	1642677661042322755	signal_and_slot_autogen/mocs_compilation.cpp	c94878796e784919
+0	291	1642677661042322755	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-signal_and_slot-Desktop_x86_darwin_generic_mach_o_64bit-Debug/signal_and_slot_autogen/timestamp	c94878796e784919
+0	291	1642677661042322755	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-signal_and_slot-Desktop_x86_darwin_generic_mach_o_64bit-Debug/signal_and_slot_autogen/mocs_compilation.cpp	c94878796e784919
+292	1247	1642677661995977796	CMakeFiles/signal_and_slot.dir/source.cpp.o	bbc4caf3af86c4f7
+292	1324	1642677662071129754	CMakeFiles/signal_and_slot.dir/destination.cpp.o	a65d254cbd093d30
+292	1377	1642677662120798168	CMakeFiles/signal_and_slot.dir/main.cpp.o	54f5478b981f7a0
+292	1404	1642677662148188571	CMakeFiles/signal_and_slot.dir/signal_and_slot_autogen/mocs_compilation.cpp.o	51182e813eb906d3
+1404	1475	1642677662233611648	signal_and_slot	f0466a36ffef292e
+5	35	1642677740298715555	signal_and_slot_autogen/timestamp	c94878796e784919
+5	35	1642677740298715555	signal_and_slot_autogen/mocs_compilation.cpp	c94878796e784919
+5	35	1642677740298715555	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-signal_and_slot-Desktop_x86_darwin_generic_mach_o_64bit-Debug/signal_and_slot_autogen/timestamp	c94878796e784919
+5	35	1642677740298715555	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-signal_and_slot-Desktop_x86_darwin_generic_mach_o_64bit-Debug/signal_and_slot_autogen/mocs_compilation.cpp	c94878796e784919
+36	1013	1642677741268936211	CMakeFiles/signal_and_slot.dir/main.cpp.o	54f5478b981f7a0
+1013	1087	1642677741348387459	signal_and_slot	f0466a36ffef292e

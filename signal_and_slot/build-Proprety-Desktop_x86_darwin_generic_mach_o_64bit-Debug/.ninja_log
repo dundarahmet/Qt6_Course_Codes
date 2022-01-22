@@ -1,0 +1,22 @@
+# ninja log v5
+0	255	1642715012534863048	Proprety_autogen/timestamp	b78e643fa5b13be4
+0	255	1642715012534863048	Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+0	255	1642715012534863048	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/timestamp	b78e643fa5b13be4
+0	255	1642715012534863048	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+256	1169	1642715013442714920	CMakeFiles/Proprety.dir/test.cpp.o	2a9569dca6cea9d0
+256	1249	1642715013528439054	CMakeFiles/Proprety.dir/watcher.cpp.o	280af4840719c786
+255	1254	1642715013534030589	CMakeFiles/Proprety.dir/main.cpp.o	6e6a090856a88a87
+255	1286	1642715013566405039	CMakeFiles/Proprety.dir/Proprety_autogen/mocs_compilation.cpp.o	87060dc98fe508d9
+1286	1353	1642715013639802943	Proprety	133d7f7ffa4ad6aa
+4	35	1642716770003924794	Proprety_autogen/timestamp	b78e643fa5b13be4
+4	35	1642716770003924794	Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+4	35	1642716770003924794	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/timestamp	b78e643fa5b13be4
+4	35	1642716770003924794	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+37	954	1642716770915685422	CMakeFiles/Proprety.dir/main.cpp.o	6e6a090856a88a87
+954	1014	1642716770981896625	Proprety	133d7f7ffa4ad6aa
+5	30	1642716788727962757	Proprety_autogen/timestamp	b78e643fa5b13be4
+5	30	1642716788727962757	Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+5	30	1642716788727962757	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/timestamp	b78e643fa5b13be4
+5	30	1642716788727962757	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-Proprety-Desktop_x86_darwin_generic_mach_o_64bit-Debug/Proprety_autogen/mocs_compilation.cpp	b78e643fa5b13be4
+31	892	1642716789583353327	CMakeFiles/Proprety.dir/main.cpp.o	6e6a090856a88a87
+892	948	1642716789641671741	Proprety	133d7f7ffa4ad6aa

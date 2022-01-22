@@ -1,0 +1,16 @@
+# ninja log v5
+0	281	1642700025255215282	disconnection_autogen/timestamp	e72539e427adffd6
+0	281	1642700025255215282	disconnection_autogen/mocs_compilation.cpp	e72539e427adffd6
+0	281	1642700025255215282	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-disconnection-Desktop_x86_darwin_generic_mach_o_64bit-Debug/disconnection_autogen/timestamp	e72539e427adffd6
+0	281	1642700025255215282	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-disconnection-Desktop_x86_darwin_generic_mach_o_64bit-Debug/disconnection_autogen/mocs_compilation.cpp	e72539e427adffd6
+282	1363	1642700026337188797	CMakeFiles/disconnection.dir/station.cpp.o	27674304f70aabfd
+282	1370	1642700026344523691	CMakeFiles/disconnection.dir/radio.cpp.o	eb68a5ce0b5ec29a
+281	1448	1642700026422067306	CMakeFiles/disconnection.dir/disconnection_autogen/mocs_compilation.cpp.o	5367ca5dcc057461
+282	1566	1642700026545976986	CMakeFiles/disconnection.dir/main.cpp.o	7662c81c096e4d0c
+1567	1625	1642700026610394236	disconnection	b92898121153b9a4
+5	35	1642700200195972941	disconnection_autogen/timestamp	e72539e427adffd6
+5	35	1642700200195972941	disconnection_autogen/mocs_compilation.cpp	e72539e427adffd6
+5	35	1642700200195972941	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-disconnection-Desktop_x86_darwin_generic_mach_o_64bit-Debug/disconnection_autogen/timestamp	e72539e427adffd6
+5	35	1642700200195972941	/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-disconnection-Desktop_x86_darwin_generic_mach_o_64bit-Debug/disconnection_autogen/mocs_compilation.cpp	e72539e427adffd6
+36	1188	1642700201339676417	CMakeFiles/disconnection.dir/main.cpp.o	7662c81c096e4d0c
+1188	1249	1642700201406388713	disconnection	b92898121153b9a4

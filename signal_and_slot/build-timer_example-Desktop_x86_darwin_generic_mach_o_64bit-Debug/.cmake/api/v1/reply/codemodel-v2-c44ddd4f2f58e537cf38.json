@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "timer_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_example-Debug-6d7cb6f3c9f81e556cf2.json",
+					"name" : "timer_example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_example_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_example_autogen-Debug-addfe92f23cceac5504b.json",
+					"name" : "timer_example_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_example_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_example_autogen_timestamp_deps-Debug-66ae34163eee67f72d87.json",
+					"name" : "timer_example_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/build-timer_example-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/signal_and_slot/timer_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

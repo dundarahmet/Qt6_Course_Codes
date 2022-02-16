@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QLIST_TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QLIST_TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLIST_TEST-Debug-cae8b477f20102f8b0bd.json",
+					"name" : "QLIST_TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QLIST_TEST_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLIST_TEST_autogen-Debug-716ae453b29677c5dff5.json",
+					"name" : "QLIST_TEST_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QLIST_TEST_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QLIST_TEST_autogen_timestamp_deps-Debug-100d33890e9e35886d22.json",
+					"name" : "QLIST_TEST_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QLIST_TEST/build-QLIST_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QLIST_TEST/QLIST_TEST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

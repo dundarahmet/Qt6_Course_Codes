@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QOBJECT_TEST",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QOBJECT_TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QOBJECT_TEST-Debug-bf479cad3415a46ff5b0.json",
+					"name" : "QOBJECT_TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QOBJECT_TEST_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QOBJECT_TEST_autogen-Debug-0f8b4a734777c26fd9a9.json",
+					"name" : "QOBJECT_TEST_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QOBJECT_TEST_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QOBJECT_TEST_autogen_timestamp_deps-Debug-5528ab028942f50fec67.json",
+					"name" : "QOBJECT_TEST_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/build-QOBJECT_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QOBJECT_TEST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

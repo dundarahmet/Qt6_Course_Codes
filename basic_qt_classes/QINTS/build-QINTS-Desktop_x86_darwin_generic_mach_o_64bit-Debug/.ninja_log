@@ -1,0 +1,8 @@
+# ninja log v5
+0	85	1645006815787663786	QINTS_autogen/timestamp	26d6e4237728fb82
+0	85	1645006815787663786	QINTS_autogen/mocs_compilation.cpp	26d6e4237728fb82
+0	85	1645006815787663786	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QINTS/build-QINTS-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QINTS_autogen/timestamp	26d6e4237728fb82
+0	85	1645006815787663786	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QINTS/build-QINTS-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QINTS_autogen/mocs_compilation.cpp	26d6e4237728fb82
+85	140	1645006815851340988	CMakeFiles/QINTS.dir/QINTS_autogen/mocs_compilation.cpp.o	825d89ba0e8b0e94
+86	1792	1645006817495944454	CMakeFiles/QINTS.dir/main.cpp.o	7629ccba5e1e5d51
+1793	1868	1645006817579699699	QINTS	ff62002f2a0be4bd

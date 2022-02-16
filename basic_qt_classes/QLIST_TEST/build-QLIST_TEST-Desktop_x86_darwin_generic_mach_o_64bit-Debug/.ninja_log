@@ -1,0 +1,8 @@
+# ninja log v5
+0	55	1645026246662603993	QLIST_TEST_autogen/timestamp	12fa2ed948e3f728
+0	55	1645026246662603993	QLIST_TEST_autogen/mocs_compilation.cpp	12fa2ed948e3f728
+0	55	1645026246662603993	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QLIST_TEST/build-QLIST_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QLIST_TEST_autogen/timestamp	12fa2ed948e3f728
+0	55	1645026246662603993	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QLIST_TEST/build-QLIST_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QLIST_TEST_autogen/mocs_compilation.cpp	12fa2ed948e3f728
+56	87	1645026246699990867	CMakeFiles/QLIST_TEST.dir/QLIST_TEST_autogen/mocs_compilation.cpp.o	6a35a2ff4701b792
+56	1167	1645026247771681544	CMakeFiles/QLIST_TEST.dir/main.cpp.o	80c32f457b21ba30
+1168	1235	1645026247843075012	QLIST_TEST	306e9b35f66a358b

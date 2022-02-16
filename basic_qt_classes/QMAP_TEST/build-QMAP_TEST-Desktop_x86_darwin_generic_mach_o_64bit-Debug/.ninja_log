@@ -1,0 +1,27 @@
+# ninja log v5
+0	189	1645028751719595140	QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+0	189	1645028751719595140	QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+0	189	1645028751719595140	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+0	189	1645028751719595140	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+190	1073	1645028752601295446	CMakeFiles/QMAP_TEST.dir/pet.cpp.o	f976aac357b06f71
+189	1094	1645028752623943592	CMakeFiles/QMAP_TEST.dir/QMAP_TEST_autogen/mocs_compilation.cpp.o	b0ad2ce6b6d52836
+189	1162	1645028752691609493	CMakeFiles/QMAP_TEST.dir/main.cpp.o	b52dfcfc87a1f708
+1162	1216	1645028752750147470	QMAP_TEST	24bcbcb76b261055
+3	28	1645029627672779614	QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+3	28	1645029627672779614	QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+3	28	1645029627672779614	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+3	28	1645029627672779614	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+29	1273	1645029628908792308	CMakeFiles/QMAP_TEST.dir/main.cpp.o	b52dfcfc87a1f708
+1273	1330	1645029628971445623	QMAP_TEST	24bcbcb76b261055
+4	30	1645029690788249903	QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+4	30	1645029690788249903	QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+4	30	1645029690788249903	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+4	30	1645029690788249903	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+31	1263	1645029692012404661	CMakeFiles/QMAP_TEST.dir/main.cpp.o	b52dfcfc87a1f708
+1263	1319	1645029692074474813	QMAP_TEST	24bcbcb76b261055
+3	32	1645029706233382388	QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+3	32	1645029706233382388	QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+3	32	1645029706233382388	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/timestamp	17f6080c2d7a5333
+3	32	1645029706233382388	/Users/ahmetdundar/Documents/qt6_course_codes/basic_qt_classes/QMAP_TEST/build-QMAP_TEST-Desktop_x86_darwin_generic_mach_o_64bit-Debug/QMAP_TEST_autogen/mocs_compilation.cpp	17f6080c2d7a5333
+33	1250	1645029707441840824	CMakeFiles/QMAP_TEST.dir/main.cpp.o	b52dfcfc87a1f708
+1250	1306	1645029707504310080	QMAP_TEST	24bcbcb76b261055

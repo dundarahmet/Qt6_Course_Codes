@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Qscopedpointer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Qscopedpointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qscopedpointer-Debug-c889a96d0e3c6119fb99.json",
+					"name" : "Qscopedpointer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qscopedpointer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qscopedpointer_autogen-Debug-92bd5d18464193dff0f3.json",
+					"name" : "Qscopedpointer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Qscopedpointer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Qscopedpointer_autogen_timestamp_deps-Debug-05f05d3d0e91b9a5dc51.json",
+					"name" : "Qscopedpointer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/Qscopedpointer/build-Qscopedpointer-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/Qscopedpointer/Qscopedpointer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtqset",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqset-Debug-8d4a4df4f8b6ff37f6ed.json",
+					"name" : "qtqset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqset_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqset_autogen-Debug-0432d9ea60b36218b2ff.json",
+					"name" : "qtqset_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqset_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqset_autogen_timestamp_deps-Debug-d6686234ddb496627f73.json",
+					"name" : "qtqset_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/qtqset"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

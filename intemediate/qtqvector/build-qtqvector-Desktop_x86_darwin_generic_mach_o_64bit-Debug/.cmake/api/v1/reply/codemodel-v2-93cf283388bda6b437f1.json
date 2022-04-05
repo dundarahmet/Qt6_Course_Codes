@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtqvector",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqvector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqvector-Debug-46b1a7dc9da1919944da.json",
+					"name" : "qtqvector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqvector_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqvector_autogen-Debug-f269bea0a7d1fec3d6b4.json",
+					"name" : "qtqvector_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtqvector_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtqvector_autogen_timestamp_deps-Debug-e1256c56bfaf72b48ad9.json",
+					"name" : "qtqvector_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqvector/build-qtqvector-Desktop_x86_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqvector/qtqvector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

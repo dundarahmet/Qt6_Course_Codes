@@ -1,0 +1,20 @@
+# ninja log v5
+1	52	1649170091770974775	qtqset_autogen/timestamp	f23a008ef53eced4
+1	52	1649170091770974775	qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+1	52	1649170091770974775	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/timestamp	f23a008ef53eced4
+1	52	1649170091770974775	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+52	84	1649170091807078685	CMakeFiles/qtqset.dir/qtqset_autogen/mocs_compilation.cpp.o	8542789de60f220f
+53	1125	1649170092843473562	CMakeFiles/qtqset.dir/main.cpp.o	5df8d68841207c94
+1126	1182	1649170092905359664	qtqset	3f2fbcc945a7e7d9
+3	29	1649170127207115327	qtqset_autogen/timestamp	f23a008ef53eced4
+3	29	1649170127207115327	qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+3	29	1649170127207115327	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/timestamp	f23a008ef53eced4
+3	29	1649170127207115327	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+30	1134	1649170128304503806	CMakeFiles/qtqset.dir/main.cpp.o	5df8d68841207c94
+1134	1190	1649170128365130778	qtqset	3f2fbcc945a7e7d9
+3	25	1649170177936736282	qtqset_autogen/timestamp	f23a008ef53eced4
+3	25	1649170177936736282	qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+3	25	1649170177936736282	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/timestamp	f23a008ef53eced4
+3	25	1649170177936736282	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqset/build-qtqset-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqset_autogen/mocs_compilation.cpp	f23a008ef53eced4
+26	1041	1649170178945193791	CMakeFiles/qtqset.dir/main.cpp.o	5df8d68841207c94
+1041	1094	1649170179002850851	qtqset	3f2fbcc945a7e7d9

@@ -1,0 +1,9 @@
+# ninja log v5
+0	231	1649173508352510014	qtqdeletallwithqmap_autogen/timestamp	a92abf0a776ac48d
+0	231	1649173508352510014	qtqdeletallwithqmap_autogen/mocs_compilation.cpp	a92abf0a776ac48d
+0	231	1649173508352510014	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdeletallwithqmap/build-qtqdeletallwithqmap-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdeletallwithqmap_autogen/timestamp	a92abf0a776ac48d
+0	231	1649173508352510014	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdeletallwithqmap/build-qtqdeletallwithqmap-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdeletallwithqmap_autogen/mocs_compilation.cpp	a92abf0a776ac48d
+232	1306	1649173509426468300	CMakeFiles/qtqdeletallwithqmap.dir/test.cpp.o	18f1bc1b18a90d02
+231	1311	1649173509431210413	CMakeFiles/qtqdeletallwithqmap.dir/qtqdeletallwithqmap_autogen/mocs_compilation.cpp.o	81edd4465db403c4
+231	1556	1649173509677601895	CMakeFiles/qtqdeletallwithqmap.dir/main.cpp.o	f185463b02b8a151
+1556	1615	1649173509741671578	qtqdeletallwithqmap	c9f1d6c2830c0bda

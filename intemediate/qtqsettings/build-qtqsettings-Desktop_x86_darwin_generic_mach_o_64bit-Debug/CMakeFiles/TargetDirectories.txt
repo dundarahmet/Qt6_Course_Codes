@@ -1,0 +1,5 @@
+/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqsettings/build-qtqsettings-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqsettings/build-qtqsettings-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqsettings/build-qtqsettings-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qtqsettings.dir
+/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqsettings/build-qtqsettings-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qtqsettings_autogen_timestamp_deps.dir
+/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqsettings/build-qtqsettings-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/qtqsettings_autogen.dir

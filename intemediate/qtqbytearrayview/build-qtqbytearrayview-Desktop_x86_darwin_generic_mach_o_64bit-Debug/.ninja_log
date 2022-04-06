@@ -1,0 +1,8 @@
+# ninja log v5
+0	50	1649241316563988948	qtqbytearrayview_autogen/timestamp	65207778d26db2ea
+0	50	1649241316563988948	qtqbytearrayview_autogen/mocs_compilation.cpp	65207778d26db2ea
+0	50	1649241316563988948	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqbytearrayview/build-qtqbytearrayview-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqbytearrayview_autogen/timestamp	65207778d26db2ea
+0	50	1649241316563988948	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqbytearrayview/build-qtqbytearrayview-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqbytearrayview_autogen/mocs_compilation.cpp	65207778d26db2ea
+50	79	1649241316598000449	CMakeFiles/qtqbytearrayview.dir/qtqbytearrayview_autogen/mocs_compilation.cpp.o	db8a147aae51118c
+50	1075	1649241317587911325	CMakeFiles/qtqbytearrayview.dir/main.cpp.o	c18c4899798e25f8
+1076	1129	1649241317646833173	qtqbytearrayview	4588f7dbbf8b89e5

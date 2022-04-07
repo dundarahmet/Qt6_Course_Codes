@@ -1,0 +1,8 @@
+# ninja log v5
+0	74	1649342762875893322	qtreadlargerfiles_autogen/timestamp	682fbc273fb63986
+0	74	1649342762875893322	qtreadlargerfiles_autogen/mocs_compilation.cpp	682fbc273fb63986
+0	74	1649342762875893322	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtreadlargerfiles/build-qtreadlargerfiles-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtreadlargerfiles_autogen/timestamp	682fbc273fb63986
+0	74	1649342762875893322	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtreadlargerfiles/build-qtreadlargerfiles-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtreadlargerfiles_autogen/mocs_compilation.cpp	682fbc273fb63986
+74	105	1649342762912157563	CMakeFiles/qtreadlargerfiles.dir/qtreadlargerfiles_autogen/mocs_compilation.cpp.o	185619097134df8a
+74	1079	1649342763880268153	CMakeFiles/qtreadlargerfiles.dir/main.cpp.o	3909d102ecf9c7
+1080	1134	1649342763940032292	qtreadlargerfiles	fb467317b1a7c6db

@@ -1,0 +1,8 @@
+# ninja log v5
+0	58	1649335850823527043	qtqiodevice_autogen/timestamp	4331f5a8545428c2
+0	58	1649335850823527043	qtqiodevice_autogen/mocs_compilation.cpp	4331f5a8545428c2
+0	58	1649335850823527043	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqiodevice/build-qtqiodevice-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqiodevice_autogen/timestamp	4331f5a8545428c2
+0	58	1649335850823527043	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqiodevice/build-qtqiodevice-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqiodevice_autogen/mocs_compilation.cpp	4331f5a8545428c2
+58	89	1649335850859660919	CMakeFiles/qtqiodevice.dir/qtqiodevice_autogen/mocs_compilation.cpp.o	ac143f572f313d79
+58	1194	1649335851957474546	CMakeFiles/qtqiodevice.dir/main.cpp.o	7c94afb34d456d77
+1195	1253	1649335852023109570	qtqiodevice	c2dcb6023a5f350a

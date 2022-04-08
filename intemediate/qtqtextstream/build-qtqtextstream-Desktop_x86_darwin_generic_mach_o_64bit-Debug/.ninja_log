@@ -1,0 +1,8 @@
+# ninja log v5
+0	51	1649434650404902034	qtqtextstream_autogen/timestamp	59e33c230f15f2ca
+0	51	1649434650404902034	qtqtextstream_autogen/mocs_compilation.cpp	59e33c230f15f2ca
+0	51	1649434650404902034	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqtextstream/build-qtqtextstream-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqtextstream_autogen/timestamp	59e33c230f15f2ca
+0	51	1649434650404902034	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqtextstream/build-qtqtextstream-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqtextstream_autogen/mocs_compilation.cpp	59e33c230f15f2ca
+52	80	1649434650440383663	CMakeFiles/qtqtextstream.dir/qtqtextstream_autogen/mocs_compilation.cpp.o	311d93862f680ec
+51	1153	1649434651504720931	CMakeFiles/qtqtextstream.dir/main.cpp.o	ceb1928aeeffcca0
+1154	1214	1649434651572986030	qtqtextstream	2a82cccbf1db9e02

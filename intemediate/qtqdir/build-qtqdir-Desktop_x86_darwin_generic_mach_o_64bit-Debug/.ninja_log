@@ -1,0 +1,26 @@
+# ninja log v5
+0	51	1649435635805888306	qtqdir_autogen/timestamp	b897978838a93d50
+0	51	1649435635805888306	qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+0	51	1649435635805888306	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/timestamp	b897978838a93d50
+0	51	1649435635805888306	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+52	82	1649435635841095005	CMakeFiles/qtqdir.dir/qtqdir_autogen/mocs_compilation.cpp.o	12fca24c974073cf
+52	1136	1649435636887174253	CMakeFiles/qtqdir.dir/main.cpp.o	b6f285f3ca2aa320
+1137	1191	1649435636948604219	qtqdir	e24c4bd7c04d770d
+2	27	1649435697360113358	qtqdir_autogen/timestamp	b897978838a93d50
+2	27	1649435697360113358	qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+2	27	1649435697360113358	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/timestamp	b897978838a93d50
+2	27	1649435697360113358	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+27	1134	1649435698460362730	CMakeFiles/qtqdir.dir/main.cpp.o	b6f285f3ca2aa320
+1134	1188	1649435698519516383	qtqdir	e24c4bd7c04d770d
+3	27	1649435908061993509	qtqdir_autogen/timestamp	b897978838a93d50
+3	27	1649435908061993509	qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+3	27	1649435908061993509	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/timestamp	b897978838a93d50
+3	27	1649435908061993509	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+28	1172	1649435909195389751	CMakeFiles/qtqdir.dir/main.cpp.o	b6f285f3ca2aa320
+1172	1236	1649435909266854666	qtqdir	e24c4bd7c04d770d
+2	29	1649435961650058350	qtqdir_autogen/timestamp	b897978838a93d50
+2	29	1649435961650058350	qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+2	29	1649435961650058350	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/timestamp	b897978838a93d50
+2	29	1649435961650058350	/Users/ahmetdundar/Documents/qt6_course_codes/intemediate/qtqdir/build-qtqdir-Desktop_x86_darwin_generic_mach_o_64bit-Debug/qtqdir_autogen/mocs_compilation.cpp	b897978838a93d50
+30	1134	1649435962744391031	CMakeFiles/qtqdir.dir/main.cpp.o	b6f285f3ca2aa320
+1134	1188	1649435962806013697	qtqdir	e24c4bd7c04d770d
